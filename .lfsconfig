@@ -1,1 +1,1 @@
-fetchexclude=*
+lfs.fetchexclude=*
